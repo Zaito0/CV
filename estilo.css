@@ -1,0 +1,40 @@
+body{
+    margin: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-image: url("img/Auto 4.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo{
+    background-image: url("img/Auto 1.jpg");
+    background-position: center;
+    color: blue;
+}
+
+h2{
+    margin: 0;
+}
+.imga{
+    width: 350px;
+}
+
+
+.img01{
+    border-radius: 10%;
+    border: solid;
+}
+
+.foot{
+    background-color: cyan;
+    justify-content: center;
+    display: flex;
+}
+p{
+    color: greenyellow;
+    text-decoration-line: underline; 
+}
+.center{
+    margin-left: 200px;
+    }
